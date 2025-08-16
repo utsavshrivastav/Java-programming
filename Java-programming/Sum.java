@@ -16,6 +16,14 @@ public class Sum {
 	 {
 		 c = a+b;
 		 System.out.println("c="+c);
+          c = a-b;
+		 System.out.println("c="+c);
+
+		 c = a*b;
+		 System.out.println("c ="+c);
+
+		 c = a%b;
+	     System.out.println("c="+c);
 		 
 	 }
 		 public static void main(String[] args) {
