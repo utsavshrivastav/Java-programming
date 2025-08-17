@@ -13,7 +13,7 @@ public class Temperature {
        }
 
     void CelintoFahren(){
-        f = (c * 5/9) + 2;
+        f = (c * 5/9) + 32;
         System.out.println("Temperature = "+f+ " °F ");
 
     }
