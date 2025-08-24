@@ -17,8 +17,8 @@ import java.util.Scanner;
 
     void cal()
      {
-       si=(p*r*t)/100;
-       System.out.println("simple interest="+si);
+       si=(p*r*t/100);       
+       System.out.println("Simple Interest="+si);
      }
      
   public static void main(String arg[])
