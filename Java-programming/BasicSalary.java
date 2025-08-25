@@ -23,5 +23,7 @@ public class BasicSalary {
         BasicSalary ob = new BasicSalary();
         ob.set();
         ob.show();
-   }
+  
+    }
+
 }
