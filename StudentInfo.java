@@ -4,12 +4,12 @@
         String name = "Utsav Shrivastav";
         String enrollment  = "A010145025018"; 
         String date = "28-08-2025"; 
-        String subject = "Mathematics"; 
+        String subject = "Science"; 
 
         System.out.println("Name      : " + name);
         System.out.println("Roll No   : " + enrollment);
         System.out.println("Date      : " + date);
-        System.out.println("Subject:  " + subject);
+        System.out.println("Subject   : " + subject);
     }
 }
 
