@@ -1,3 +1,4 @@
+// WAP to Sum 2 numbers-
 import java.util.Scanner;
 
 public class Swap {
