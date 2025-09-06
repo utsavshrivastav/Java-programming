@@ -21,11 +21,4 @@ public static void main(String[] args)
          sc.close(); // good practice to close scanner
 
             }
-          }   
-
-          
-        
-          
-
-     
-
+          }
