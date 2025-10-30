@@ -5,7 +5,7 @@ public class NameAgeCity {
 
     void details(){
         System.out.println("Your good name is = "+name);
-        System.out.println("Your City is ="+city);
+        System.out.println("Your City is = "+city);
         System.out.println("And Your age is = "+age);
     }
 
