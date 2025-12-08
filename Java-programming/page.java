@@ -1,4 +1,4 @@
-public interface upper {
+/*public interface upper {
     void drawupper(int n);
 }
 
@@ -53,4 +53,4 @@ public class page {
         sp.drawlower(n);
     }
 }
-
+*/

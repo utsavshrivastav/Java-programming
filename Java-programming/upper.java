@@ -1,4 +1,4 @@
-public interface upper 
+/*public interface upper 
 {
      void drawupper(int n);
 
@@ -66,6 +66,6 @@ class Sandglass implements upper , lower {
     }
   }
 
-
+*/
 
 
